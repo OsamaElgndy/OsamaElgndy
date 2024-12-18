@@ -12,7 +12,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m a Junior Software Engineer at upwork
+- 👨🏽‍💻 I’m a Junior Software Engineer at upWork
 - 💼 I’ve completed my Bachelor's degree in Information Technology 
 - 🤔 My interests are with Web App Development 🖥️, AI 🤖, Cricket 🏏, Space 🚀, etc..;
 - 
