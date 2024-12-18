@@ -12,7 +12,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m a Junior Software Engineer at [Presidio](https://tiny-pika-2cc1e0.netlify.app/);
+- 👨🏽‍💻 I’m a Junior Software Engineer at upwork
 - 💼 I’ve completed my Bachelor's degree in Information Technology 
 - 🤔 My interests are with Web App Development 🖥️, AI 🤖, Cricket 🏏, Space 🚀, etc..;
 - 
